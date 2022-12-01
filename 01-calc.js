@@ -1,3 +1,9 @@
+/**
+ * This is awful and I should feel ashamed of myself for
+ * the things I have done here.
+ *
+ * 🤘 Hail Santa.
+ */
 import fs from 'fs'
 
 const elvesData = []
