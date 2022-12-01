@@ -25,9 +25,6 @@ inputFileContent.split(/\r?\n/).forEach((line) => {
 		elfIndex++
 	}
 })
-// console.log('*** DONE PARSING ELF DATA ***')
-// console.log('')
-// console.log('*** START FINDING THE BEST ELF TO CONSUME ***')
 
 elvesData.map((elf) => {
 	let totalCalories = 0
