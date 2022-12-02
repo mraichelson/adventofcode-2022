@@ -5,7 +5,8 @@
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
-		"day1": "node 01-calc.js"
+		"day1": "node 01-calc.js",
+		"day2": "node 02-war-never-changes.js"
 	},
 	"keywords": [],
 	"author": "",
